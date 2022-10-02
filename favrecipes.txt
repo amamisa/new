@@ -1,7 +1,11 @@
-Chicken breasts with white rice
-Chocolate Cupcake 
-Mango ice cream
-Green salad
-Tea with milk
-eggs with tomatos and green onion
-meat balls
+Chicken breasts with white rice 200SR
+Chocolate Cupcake 50SR
+Mango ice cream 12SR
+Green salad 20SR
+Tea with milk 10SR
+eggs with tomatos and green onion 30SR
+
+added the prices
+
+
+
